@@ -1,3 +1,12 @@
+
+# Student-Registration-BE 
+For the Frontend side → Javascript & React library
+
+For the Backend side → Java & Spring Boot framework, H2 DB
+Server side link - https://github.com/Koral-Arbel/Student-Registration-BE.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
